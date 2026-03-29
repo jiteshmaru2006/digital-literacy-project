@@ -1,6 +1,7 @@
 # digital-literacy-project
 
 Name Jitesh Maru
+
 Reg. No. 25BAI10649
 
 ## Project Overview
