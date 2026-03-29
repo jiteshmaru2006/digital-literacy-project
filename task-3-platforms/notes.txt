@@ -1,0 +1,11 @@
+For this task, I explored both a coding practice platform and a collaboration tool. I created 
+an account on HackerRank and completed a beginner-level challenge called “Solve Me First.” This
+helped me practise basic programming and understand how coding platforms evaluate solutions and 
+provide feedback.
+
+For collaboration, I used Google Forms to create a Digital Literacy Awareness Quiz with five 
+questions, including multiple-choice and short-answer types. The responses were automatically 
+stored in Google Sheets, making it easy to view and manage the results.
+
+These tools will help me improve my coding skills and collaborate better with classmates during 
+my academic studies.

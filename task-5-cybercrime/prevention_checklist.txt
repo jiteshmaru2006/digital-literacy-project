@@ -1,0 +1,13 @@
+Stay Safe Online
+
+1.	Never approve UPI collect requests unless you are sure about the sender. 
+2.	Remember: Scanning a QR code is for paying money, not receiving it. 
+3.	Do not share OTP, UPI PIN, bank details, or passwords with anyone. 
+4.	Verify the identity of callers claiming to be from banks or payment apps. 
+5.	Avoid clicking suspicious links received through SMS, email, or WhatsApp. 
+6.	Enable two-factor authentication (2FA) on important accounts. 
+7.	Use strong and unique passwords for banking and payment apps. 
+8.	Install apps only from trusted sources like official app stores. 
+9.	Always check website URLs before entering payment information. 
+10.	Immediately report fraud to National Cyber Crime Portal – https://cybercrime.gov.in or call 
+Helpline 1930.

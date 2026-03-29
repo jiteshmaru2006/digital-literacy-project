@@ -1,0 +1,21 @@
+Cybercrime Type: UPI / Online Payment Fraud
+
+UPI (Unified Payments Interface) fraud is one of the most common cybercrimes in India, 
+especially among students and new digital payment users. In this type of fraud, criminals 
+trick victims into sending money or sharing sensitive banking information through fake 
+messages, calls, or payment requests.
+
+A common scenario begins when a student posts an item for sale online or receives a message 
+about a prize or cashback offer. The fraudster contacts the student pretending to be a buyer,
+bank official, or customer support representative. They then send a UPI “collect request” or 
+ask the victim to scan a QR code to “receive money.” Many victims mistakenly approve the 
+request, believing they will receive funds. In reality, the approval transfers money from the 
+victim’s account to the fraudster.
+
+Fraudsters often target college students because they frequently use digital payments for food 
+orders, travel, and online shopping. Students may also be less experienced in identifying fake 
+payment requests or phishing messages.
+
+The consequences can include immediate financial loss, unauthorized bank transactions, and 
+exposureof personal information such as phone numbers and bank account details. In some cases, 
+victims also face emotional stress and difficulty recovering the stolen money.

@@ -1,0 +1,19 @@
+For this task, I created and updated my profiles on GitHub, LinkedIn, and Kaggle to build 
+a professional digital portfolio. These platforms are widely used by employers, developers, 
+and researchers to evaluate skills, projects, and professional growth.
+
+On GitHub, I created a profile README repository that includes my name, branch, year of study, 
+and a short statement about my goal to learn advanced programming and software development 
+skills. GitHub will help me showcase my coding projects, assignments, and collaborative work 
+throughout my academic journey.
+
+On LinkedIn, I completed my Education section by adding my current degree,institution, and 
+expected graduation year. LinkedIn will serve as my professional networking platform where 
+I can connect with industry professionals, mentors, and potential employers.
+
+I also created a Kaggle profile to explore datasets, participate in competitions, and practice 
+data science and machine learning skills.
+
+Over the next four years, I plan to regularly update these platforms with new projects, 
+certifications, and achievements. Maintaining an active digital presence will help me build 
+a strong professional identity and improve my chances of internships and career opportunities.
